@@ -27,8 +27,8 @@
 
 **Featured Projects**
 
-<a href="https://github.com/MohammedHamza5/military-edu-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=military-edu-system&theme=default" />
+<a href="https://github.com/MohammedHamza5/ed_sentre_teacher_and_parent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=ed_sentre_teacher_and_parent&theme=default" />
 </a>
 <a href="https://github.com/MohammedHamza5/internhub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=internhub&theme=default" />
