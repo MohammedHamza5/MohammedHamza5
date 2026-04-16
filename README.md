@@ -13,7 +13,7 @@
 - 📱 Specialized in offline-first architecture, BLoC/Cubit state management & OTA updates (Shorebird)
 - 🏆 Official recognition from Ain Shams University for the Military Education Desktop System
 - ❤️ I love writing Dart and crafting clean, scalable Flutter architectures
-- 💬 Ask me about Flutter, Supabase, GoRouter, or clean architecture [here](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues)
+- 💬 Ask me about Flutter, Supabase, GoRouter, or clean architecture [here](https://github.com/MohammedHamza5/MohammedHamza5/issues)
 
 ---
 
@@ -27,20 +27,20 @@
 
 **Featured Projects**
 
-<a href="https://github.com/YOUR_USERNAME/military-edu-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=military-edu-system&theme=default" />
+<a href="https://github.com/MohammedHamza5/military-edu-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=military-edu-system&theme=default" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/internhub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=internhub&theme=default" />
+<a href="https://github.com/MohammedHamza5/internhub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=internhub&theme=default" />
 </a>
 
 ---
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
+<a href="https://github.com/MohammedHamza5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedHamza5&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
+<a href="https://github.com/MohammedHamza5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHamza5&layout=compact&theme=default&hide_border=true" />
 </a>
 
 ---
