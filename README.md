@@ -28,10 +28,10 @@
 **Featured Projects**
 
 <a href="https://github.com/MohammedHamza5/ed_sentre_teacher_and_parent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=ed_sentre_teacher_and_parent&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=ed_sentre_teacher_and_parent&theme=default&show_owner=true" />
 </a>
-<a href="https://github.com/MohammedHamza5/internhub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=internhub&theme=default" />
+<a href="https://github.com/MohammedHamza5/intern_hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHamza5&repo=intern_hub&theme=default" />
 </a>
 
 ---
